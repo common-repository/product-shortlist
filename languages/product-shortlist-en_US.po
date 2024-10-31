@@ -1,0 +1,354 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Product Shortlist 1.0.2\n"
+"POT-Creation-Date: 2017-11-21 12:08+0530\n"
+"PO-Revision-Date: 2017-11-21 12:08+0530\n"
+"Last-Translator: \n"
+"Language-Team: CedCommerce <plugins@cedcommerce.com>\n"
+"Language: english\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath:\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: product-shortlist.php:60
+msgid "Settings"
+msgstr ""
+
+#: product-shortlist.php:80
+msgid "Documentation"
+msgstr ""
+
+#: product-shortlist.php:81
+msgid "Live Demo"
+msgstr ""
+
+#: product-shortlist.php:195
+msgid ""
+"It seems WooCommerce is not active. Please install WooCommerce first and "
+"activate, to use the Prodcut Shortlist extension !!!"
+msgstr ""
+
+#: includes/ps-settings.php:132
+msgid "Product Shortlist Setting"
+msgstr ""
+
+#: includes/ps-settings.php:133
+msgid "Shortlist your WooCommerce products"
+msgstr ""
+
+#: includes/ps-settings.php:139
+msgid "Page Setting"
+msgstr ""
+
+#: includes/ps-settings.php:153
+msgid " Page"
+msgstr ""
+
+#: includes/ps-settings.php:158
+msgid "Product Detail Page"
+msgstr ""
+
+#: includes/ps-settings.php:161
+msgid "Select page where you want to apply shortlist section"
+msgstr ""
+
+#: includes/ps-settings.php:169
+msgid "Position Setting"
+msgstr ""
+
+#: includes/ps-settings.php:173
+msgid "Top"
+msgstr ""
+
+#: includes/ps-settings.php:174
+msgid "Bottom"
+msgstr ""
+
+#: includes/ps-settings.php:175
+msgid "Left"
+msgstr ""
+
+#: includes/ps-settings.php:176
+msgid "Right"
+msgstr ""
+
+#: includes/ps-settings.php:178
+msgid "Position where shortlist section will show"
+msgstr ""
+
+#: includes/ps-settings.php:186
+msgid "Discount Type"
+msgstr ""
+
+#: includes/ps-settings.php:190
+msgid "Fixed Discount"
+msgstr ""
+
+#: includes/ps-settings.php:191
+msgid "Percentage Discount"
+msgstr ""
+
+#: includes/ps-settings.php:193
+msgid "Select type of discount to be provided"
+msgstr ""
+
+#: includes/ps-settings.php:199
+msgid "Time Period"
+msgstr ""
+
+#: includes/ps-settings.php:203
+msgid "In Days"
+msgstr ""
+
+#: includes/ps-settings.php:204
+msgid "Expiry time(days) to show shortlisted products"
+msgstr ""
+
+#: includes/ps-settings.php:211
+msgid "Shortcode for Shortlist Section"
+msgstr ""
+
+#: includes/ps-settings.php:215
+msgid ""
+"Copy & Paste this shortcode on any page for the product shorlist section "
+msgstr ""
+
+#: includes/ps-settings.php:221
+msgid "Text for Shortlist Section"
+msgstr ""
+
+#: includes/ps-settings.php:229
+msgid "Choose Shortlist Buttton Font Color"
+msgstr ""
+
+#: includes/ps-settings.php:237
+msgid "Choose Background Color for shortlist section"
+msgstr ""
+
+#: includes/ps-settings.php:246
+msgid "Choose Add to Cart Button Font Color"
+msgstr ""
+
+#: includes/ps-settings.php:254
+msgid "Choose Background Color for Add to Cart Button"
+msgstr ""
+
+#: includes/ps-settings.php:263
+msgid "Text for Remove all Button"
+msgstr ""
+
+#: includes/ps-settings.php:271
+msgid "Choose Remove All Button Font Color"
+msgstr ""
+
+#: includes/ps-settings.php:279
+msgid "Choose Background Color for Remove All Button"
+msgstr ""
+
+#: includes/ps-settings.php:315 includes/product-shortlist-class.php:388
+msgid "Shortlisted Products"
+msgstr ""
+
+#: includes/ps-settings.php:322
+msgid "Bulk Actions"
+msgstr ""
+
+#: includes/ps-settings.php:323 includes/ps-settings.php:407
+msgid "Delete"
+msgstr ""
+
+#: includes/ps-settings.php:349
+msgid "Image"
+msgstr ""
+
+#: includes/ps-settings.php:352
+msgid "Name"
+msgstr ""
+
+#: includes/ps-settings.php:355
+msgid "Price"
+msgstr ""
+
+#: includes/ps-settings.php:358 includes/ps-settings.php:517
+msgid "Username"
+msgstr ""
+
+#: includes/ps-settings.php:361
+msgid "Discount"
+msgstr ""
+
+#: includes/ps-settings.php:364
+msgid "Date"
+msgstr ""
+
+#: includes/ps-settings.php:367
+msgid "Action"
+msgstr ""
+
+#: includes/ps-settings.php:440
+msgid "Enter Discount"
+msgstr ""
+
+#: includes/ps-settings.php:487
+msgid "Sender"
+msgstr ""
+
+#: includes/ps-settings.php:491
+msgid "Senders Email-Id"
+msgstr ""
+
+#: includes/ps-settings.php:497
+msgid "Host"
+msgstr ""
+
+#: includes/ps-settings.php:501
+msgid "SMTP Host Server"
+msgstr ""
+
+#: includes/ps-settings.php:507
+msgid "Port"
+msgstr ""
+
+#: includes/ps-settings.php:511
+msgid "SMTP port for the server"
+msgstr ""
+
+#: includes/ps-settings.php:527
+msgid "Password"
+msgstr ""
+
+#: includes/ps-settings.php:537
+msgid "Set SMTP Secure"
+msgstr ""
+
+#: includes/ps-settings.php:541
+msgid "tls"
+msgstr ""
+
+#: includes/ps-settings.php:542
+msgid "ssl"
+msgstr ""
+
+#: includes/ps-settings.php:586
+msgid "Subject of the mail"
+msgstr ""
+
+#: includes/ps-settings.php:594
+msgid "Email Content"
+msgstr ""
+
+#: includes/ps-settings.php:600
+msgid "Message of the Email"
+msgstr ""
+
+#: includes/ps-functions.php:71 includes/ps-functions.php:153
+msgid "Add to Shortlist"
+msgstr ""
+
+#: includes/ps-functions.php:231 includes/product-shortlist-class.php:909
+msgid ""
+"Shortlist your wished items and add them here by clicking the <b>STAR</b> "
+"button."
+msgstr ""
+
+#: includes/ps-functions.php:238 includes/product-shortlist-class.php:916
+msgid "ced_ps_shortlist_btn"
+msgstr ""
+
+#: includes/product-shortlist-class.php:110
+msgid ""
+"Soon you will receive the more details of this extension on the given mail."
+msgstr ""
+
+#: includes/product-shortlist-class.php:114
+#: includes/product-shortlist-class.php:119
+msgid "Sorry,an error occurred.Please try again."
+msgstr ""
+
+#: includes/product-shortlist-class.php:157
+msgid "Select pages"
+msgstr ""
+
+#: includes/product-shortlist-class.php:158
+msgid "Choose a position"
+msgstr ""
+
+#: includes/product-shortlist-class.php:159
+msgid "You can enter only digits in this field!"
+msgstr ""
+
+#: includes/product-shortlist-class.php:160
+msgid "All the settings are saved successfully !"
+msgstr ""
+
+#: includes/product-shortlist-class.php:161
+msgid "It seems no changes were selected !"
+msgstr ""
+
+#: includes/product-shortlist-class.php:162
+msgid "Expiry time mustn't be negative !"
+msgstr ""
+
+#: includes/product-shortlist-class.php:163
+msgid "Expiry time must be greater than zero !"
+msgstr ""
+
+#: includes/product-shortlist-class.php:164
+msgid ""
+"Please enter a valid expiry time, till when shortlisted products will be "
+"saved !"
+msgstr ""
+
+#: includes/product-shortlist-class.php:165
+msgid "Please choose some pages first!"
+msgstr ""
+
+#: includes/product-shortlist-class.php:166
+msgid "Please choose a position first!"
+msgstr ""
+
+#: includes/product-shortlist-class.php:364
+msgid "Products Shortlists"
+msgstr ""
+
+#: includes/product-shortlist-class.php:387
+msgid "General Settings"
+msgstr ""
+
+#: includes/product-shortlist-class.php:389
+msgid "SMTP Settings"
+msgstr ""
+
+#: includes/product-shortlist-class.php:390
+msgid "Email Template Settings"
+msgstr ""
+
+#: includes/product-shortlist-class.php:425
+msgid "enter your e-mail address"
+msgstr ""
+
+#: includes/product-shortlist-class.php:426
+msgid "Know More"
+msgstr ""
+
+#: includes/product-shortlist-class.php:464
+msgid "Please fill all the fields first !"
+msgstr ""
+
+#: includes/product-shortlist-class.php:466
+msgid "Expiry Time mustn't be zero"
+msgstr ""
+
+#: includes/product-shortlist-class.php:912
+msgid "Remove All"
+msgstr ""
+
+#: includes/product-shortlist-class.php:917
+msgid "SHORTLIST"
+msgstr ""

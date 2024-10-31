@@ -1,0 +1,171 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Product Shortlist 1.0.0\n"
+"POT-Creation-Date: 2016-05-18 18:25+0530\n"
+"PO-Revision-Date: 2016-05-18 18:25+0530\n"
+"Last-Translator: \n"
+"Language-Team: CedCommerce <plugins@cedcommerce.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"product-shortlist/\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: product-shortlist.php:60
+msgid "Settings"
+msgstr ""
+
+#: product-shortlist.php:80
+msgid "Documentation"
+msgstr ""
+
+#: product-shortlist.php:81
+msgid "Live Demo"
+msgstr ""
+
+#: product-shortlist.php:159
+msgid ""
+"It seems WooCommerce is not active. Please install WooCommerce first and "
+"activate, to use the Prodcut Shortlist extension !!!"
+msgstr ""
+
+#: includes/ps-functions.php:48 includes/ps-functions.php:108
+msgid "Add to Shortlist"
+msgstr ""
+
+#: includes/ps-functions.php:154
+msgid ""
+"Shortlist your wished items and add them here by clicking the <b>STAR</b> "
+"button."
+msgstr ""
+
+#: includes/ps-functions.php:157
+msgid "Remove All"
+msgstr ""
+
+#: includes/ps-functions.php:161
+msgid "SHORTLIST"
+msgstr ""
+
+#: includes/product-shortlist-class.php:68
+msgid "Select pages"
+msgstr ""
+
+#: includes/product-shortlist-class.php:69
+msgid "Choose a position"
+msgstr ""
+
+#: includes/product-shortlist-class.php:70
+msgid "Enter a valid time"
+msgstr ""
+
+#: includes/product-shortlist-class.php:71
+msgid "You can enter only digits in this field!"
+msgstr ""
+
+#: includes/product-shortlist-class.php:72
+msgid "All the settings are saved successfully !"
+msgstr ""
+
+#: includes/product-shortlist-class.php:73
+msgid "It seems no changes were selected !"
+msgstr ""
+
+#: includes/product-shortlist-class.php:74
+msgid "Expiry time mustn't be negative !"
+msgstr ""
+
+#: includes/product-shortlist-class.php:75
+msgid "Expiry time must be greater than zero !"
+msgstr ""
+
+#: includes/product-shortlist-class.php:76
+msgid ""
+"Please enter a valid expiry time, till when shortlisted products will be "
+"saved !"
+msgstr ""
+
+#: includes/product-shortlist-class.php:77
+msgid "Please choose some pages first!"
+msgstr ""
+
+#: includes/product-shortlist-class.php:78
+msgid "Please choose a position first!"
+msgstr ""
+
+#: includes/product-shortlist-class.php:154
+msgid "Products Shortlists"
+msgstr ""
+
+#: includes/product-shortlist-class.php:181
+msgid "Please fill all the fields first !"
+msgstr ""
+
+#: includes/product-shortlist-class.php:183
+msgid "Expiry Time mustn't be zero"
+msgstr ""
+
+#: includes/ps-settings.php:91
+msgid "Product Shortlist Setting"
+msgstr ""
+
+#: includes/ps-settings.php:92
+msgid "Shortlist your WooCommerce products"
+msgstr ""
+
+#: includes/ps-settings.php:98
+msgid "Page Setting"
+msgstr ""
+
+#: includes/ps-settings.php:102
+msgid "Select page where you want to apply shortlist section"
+msgstr ""
+
+#: includes/ps-settings.php:104
+msgid "Product List Page"
+msgstr ""
+
+#: includes/ps-settings.php:105
+msgid "Product Detail Page"
+msgstr ""
+
+#: includes/ps-settings.php:113
+msgid "Position Setting"
+msgstr ""
+
+#: includes/ps-settings.php:117
+msgid "Position where the selected shortlist section will be rendered"
+msgstr ""
+
+#: includes/ps-settings.php:119
+msgid "Top"
+msgstr ""
+
+#: includes/ps-settings.php:120
+msgid "Bottom"
+msgstr ""
+
+#: includes/ps-settings.php:121
+msgid "Left"
+msgstr ""
+
+#: includes/ps-settings.php:122
+msgid "Right"
+msgstr ""
+
+#: includes/ps-settings.php:131
+msgid "Time Period"
+msgstr ""
+
+#: includes/ps-settings.php:135
+msgid "Expiry time(days) to show shortlisted products"
+msgstr ""
+
+#: includes/ps-settings.php:137
+msgid "In Days"
+msgstr ""
